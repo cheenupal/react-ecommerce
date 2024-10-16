@@ -1,0 +1,42 @@
+.product-create-title {
+    color: rgb(192, 196, 196);
+    text-align: center;
+}
+
+.product-create-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-input-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 400px;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+.product-input-container textarea {
+    resize: none;
+}
+
+.add-product-button {
+    text-decoration: none;
+    color: lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(31, 100, 31);
+}
+
+.add-product-button > :first-child {
+    margin-right: 5px;
+
+}
