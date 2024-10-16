@@ -4,11 +4,6 @@ this project is build using vit framework as an Conding Ninjas Frontend skill te
 
 ## Project Setup
 
-* clone git repository
-  
-  ```bash
-  git clone https://github.com/akashpadampalle/react-ecommerce.git
-  ```
 * change working directory
   
   ```bash
@@ -36,7 +31,7 @@ this project is build using vit framework as an Conding Ninjas Frontend skill te
 
 ## Live Demo
 
-open [https://react-ecommerce-phi-sand.vercel.app](https://react-ecommerce-phi-sand.vercel.app/) it in your browser
+open [https://react-ecommerce-rosy.vercel.app/] it in your browser
 
 ## Screenshots
 
